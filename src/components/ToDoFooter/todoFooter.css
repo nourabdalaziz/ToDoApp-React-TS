@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    width: 40%;
+  }
+  .footer button {
+    border-radius: 5px;
+    border-color: #f2f2f2;
+    background-color: #bf8db0;
+    color: white;
+    cursor: pointer;
+    padding: 0.5rem 0.5rem;
+    width: 30%;
+    margin-left: 3rem;
+    font-size: 1rem;
+    font-weight: bold;
+
+  }
+  .footer button:hover {
+    border-color: #bf8db0;
+    background-color: #f2f2f2;
+    color: #bf8db0;
+  }
+
+  .footer-text{
+    font-size: medium;
+    font-weight: bold;
+  }

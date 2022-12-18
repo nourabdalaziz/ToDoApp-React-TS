@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Beau+Rivage&family=Bevan&family=Gruppo&family=Kanit&family=League+Gothic&family=Raleway:ital,wght@1,100&family=Road+Rage&family=Send+Flowers&family=Square+Peg&display=swap');
+
+#modal {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgba(0, 0, 0, 0.9);
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #434242;
+}
+
+#modal:empty {
+  display: none;
+}
+
+#modal > div {
+  width: 250px;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+  background: #e6e6e6;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+.modal-buttons button {
+  border-radius: 5px;
+  border-color: #f2f2f2;
+  background-color: #bf8db0;
+  color: white;
+  cursor: pointer;
+  padding: 0.4rem 1.4rem;
+  font-weight: bold;
+}
+
+.modal-buttons button:hover {
+  transform: scale(1.04);
+}
