@@ -4,7 +4,7 @@
 </p>
 
 
-# ToDoApp-React-TS
+# To-Do App
 ### A simple To-Do App with React and TS 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/108607595/208295272-2b49a717-d2ed-4407-902c-fd92e1b26052.png" width="50%">
