@@ -6,9 +6,9 @@
 
 # ToDoApp-React-TS
 ### A simple To-Do App with React and TS 
-![image](https://user-images.githubusercontent.com/108607595/208295272-2b49a717-d2ed-4407-902c-fd92e1b26052.png)
-
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/108607595/208295272-2b49a717-d2ed-4407-902c-fd92e1b26052.png" width="50%">
+</p>
 ## Features                                
 
 - #### Add a new task 
@@ -17,3 +17,9 @@
 - #### Keep tasks after refreshing page
 - #### Delete ALL tasks
 - #### Mark a completed task 
+- ### A modal will pop up before deleting one or all tasks.
+
+## Technologies 
+ <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/>
+
+
