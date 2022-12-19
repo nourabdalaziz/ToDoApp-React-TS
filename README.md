@@ -9,8 +9,8 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/108607595/208295272-2b49a717-d2ed-4407-902c-fd92e1b26052.png" width="50%">
 </p>
-## Features                                
 
+## Features                                
 - #### Add a new task 
 - #### Update task 
 - #### Delete task
