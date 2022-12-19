@@ -17,7 +17,7 @@
 - #### Keep tasks after refreshing page
 - #### Delete ALL tasks
 - #### Mark a completed task 
-- #### A modal will pop up before deleting one or all tasks.
+- #### To ensure deleting a task, a modal will pop up before deleting one or all tasks.
 
 ## Technologies 
  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/>
